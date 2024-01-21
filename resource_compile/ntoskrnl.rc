@@ -1,0 +1,59 @@
+LANGUAGE 0x0a, 0x03 // Spanish - modern
+
+1 BITMAP DISCARDABLE "BITMAP1_1.bmp"
+
+2 BITMAP DISCARDABLE "BITMAP2_1.bmp"
+
+3 BITMAP DISCARDABLE "BITMAP3_1.bmp"
+
+4 BITMAP DISCARDABLE "BITMAP4_1.bmp"
+
+5 BITMAP DISCARDABLE "BITMAP5_1.bmp"
+
+6 BITMAP DISCARDABLE "BITMAP6_1.bmp"
+
+7 BITMAP DISCARDABLE "BITMAP7_1.bmp"
+
+8 BITMAP DISCARDABLE "BITMAP8_1.bmp"
+
+10 BITMAP DISCARDABLE "BITMAP10_1.bmp"
+
+13 BITMAP DISCARDABLE "BITMAP13_1.bmp"
+
+14 BITMAP DISCARDABLE "BITMAP14_1.bmp"
+
+15 BITMAP DISCARDABLE "BITMAP15_1.bmp"
+
+16 BITMAP DISCARDABLE "BITMAP16_1.bmp"
+
+17 BITMAP DISCARDABLE "BITMAP17_1.bmp"
+
+1 MESSAGETABLE esp.bin
+
+1 VERSIONINFO
+FILEVERSION 5,2,3800,1807
+PRODUCTVERSION 5,2,3800,1807
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "0C0A04B0"
+	{
+		VALUE "CompanyName", "Microsoft Corporation"
+		VALUE "FileDescription", "El kernel del sistema NT"
+		VALUE "FileVersion", "5.2.3800.1807 built by: Ernesto Mauricio"
+		VALUE "InternalName", "ntkrnlmp.exe"
+		VALUE "LegalCopyright", "(C) Microsoft Corporation. All rights reserved."
+		VALUE "OriginalFilename", "ntkrnlmp.exe"
+		VALUE "ProductName", "Sistema Operativo Windows"
+		VALUE "ProductVersion", "5.2.3800.1807"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0C0A 0x04B0  
+}
+}
+
